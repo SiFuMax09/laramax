@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://packagist.org/packages/laramax/laramax"><img src="https://img.shields.io/packagist/dt/laramax/laramax" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laramax/laramax"><img src="https://img.shields.io/packagist/v/laramax/laramax" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laramax/laramax"><img src="https://img.shields.io/packagist/l/laramax/laramax" alt="License"></a>
-</p>
-
 ## About Laramax
 
 Laramax is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
