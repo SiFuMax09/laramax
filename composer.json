@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "laramax/laramax",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "keywords": ["laramax", "framework"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
