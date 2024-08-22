@@ -23,7 +23,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [me@max-witt.de](mailto:me@max-witt.de). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Max via [me@max-witt.de](mailto:me@max-witt.de). All security vulnerabilities will be promptly addressed.
 
 ## License
 
